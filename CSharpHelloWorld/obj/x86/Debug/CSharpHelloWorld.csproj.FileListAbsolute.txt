@@ -1,0 +1,5 @@
+/Users/ryankiang/Documents/projects/CSharpHelloWorld/CSharpHelloWorld/bin/Debug/CSharpHelloWorld.exe
+/Users/ryankiang/Documents/projects/CSharpHelloWorld/CSharpHelloWorld/bin/Debug/CSharpHelloWorld.pdb
+/Users/ryankiang/Documents/projects/CSharpHelloWorld/CSharpHelloWorld/obj/x86/Debug/CSharpHelloWorld.csproj.CoreCompileInputs.cache
+/Users/ryankiang/Documents/projects/CSharpHelloWorld/CSharpHelloWorld/obj/x86/Debug/CSharpHelloWorld.exe
+/Users/ryankiang/Documents/projects/CSharpHelloWorld/CSharpHelloWorld/obj/x86/Debug/CSharpHelloWorld.pdb
